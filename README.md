@@ -5,6 +5,6 @@
 ### Python
 Hello! 
 
-# python
-# css3
-# html
+- python
+- css3
+- html
